@@ -17,4 +17,10 @@
 
 ### La librería extra que usé es Material UI : https://material-ui.com/
 
+### Instalar:
+
+npm install --save @emotion/react
+npm install --save react-motion
+
+
 
